@@ -17,6 +17,22 @@ header {
   padding: 1.5rem 2rem;
 }
 
+.resume-button {
+  display: inline-block;
+  background-color: bisque;
+  color: white;
+  padding: 0.6rem 1rem;
+  text-decoration: none;
+  border-radius: 6px;
+  margin-top: 1rem;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.resume-button:hover {
+  background-color: #ff1493;
+}
+
 .profile-photo {
   text-align: center;
   margin-bottom: 20px;
