@@ -19,7 +19,7 @@ header {
 
 .resume-button {
   display: inline-block;
-  background-color: bisque;
+  background-color: navy;
   color: white;
   padding: 0.6rem 1rem;
   text-decoration: none;
@@ -30,7 +30,7 @@ header {
 }
 
 .resume-button:hover {
-  background-color: #ff1493;
+  background-color: blueviolet;
 }
 
 .profile-photo {
